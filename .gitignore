@@ -1,3 +1,10 @@
 *.suo
 *.o
 *.opensdf
+*.obj
+*.obj
+*.lib
+*.sdf
+*.vcxproj
+*.tlog
+*.ipch
